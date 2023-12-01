@@ -17,7 +17,7 @@ const AboutSection = () => {
       bgImage: amplify1,
     },
     {
-      title: "Cutting Edge Software Solutions",
+      title: "Cutting Edge Artifical Inteligence Solutions",
       text:
         "Our highly skilled network of software developers, product managers & business analysts have experience growing some of the worlds largest and most impactful software companies.",
       idx: "02",
