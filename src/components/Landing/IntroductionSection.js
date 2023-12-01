@@ -8,7 +8,7 @@ const IntroductionSection = () => {
   return (
     <section className="introduction">
       <div className="container">
-        <h1>Drive Business Impact with Cutting Edge Artifical Intelligence</h1>
+        <h1>Drive Business Impact with Artifical Intelligence</h1>
       </div>
       {/* <Lottie
         className="introduction__animation"
