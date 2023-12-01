@@ -66,7 +66,7 @@ const ContactSection = () => {
                         Select an industry
                       </option>
                       <option value="Grow your revenue">
-                        Grow your revenue
+                        Integrate Artifical Intelligence in business practices
                       </option>
                       <option value="Improve your strategic direction">
                         Improve your strategic direction
@@ -75,13 +75,6 @@ const ContactSection = () => {
                         Co-develop custom software
                       </option>
                       <option value="Increase LTV">Increase LTV</option>
-                      <option value="Create or enhance a call center">
-                        Create or enhance a call center
-                      </option>
-                      <option value="Create on enhance a Salesforce instance or another ERP software.">
-                        Create on enhance a Salesforce instance or another ERP
-                        software
-                      </option>
                     </select>
                   </label>
                   {/* <div className="input-border"></div> */}
